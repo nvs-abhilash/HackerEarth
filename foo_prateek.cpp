@@ -50,11 +50,13 @@ int main(){
                 if(j == 2) B = A;
             }
             w = a*A + b*B + c*mid + dd;
-            if(w < kk)  low = mid + 1;
-            if(w > kk) high = mid - 1;
+            if(w < kk)  low = mid + 1 ;
+            if(w > kk) high = mid - 1 ;
             if(w == kk) break;
         }
-        cout<<mid-1<<endl;
+        if(w > kk) mid--;
+        if(mid == -1) mid = 0;
+        cout<<mid<<endl;
 
     }
 
