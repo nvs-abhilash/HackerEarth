@@ -24,9 +24,5 @@ int main()
             cout << volume[i] <<endl;
         }
     }
-
-
-
-
     return 0;
 }
