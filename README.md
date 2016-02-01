@@ -13,8 +13,8 @@
     - - [ ] Read me
 
   4. Mohit Raj  
-    - - [ ] Source code 
-    - - [ ] Read me
+    - - [x] Source code 
+    - - [x] Read me
 
   5. Vinit Koshti  
     - - [x] Source code 
