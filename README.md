@@ -23,3 +23,7 @@
   6. Jagrit Kaushik  
     - - [x] Source code 
     - - [ ] Read me
+
+  7. Priyamwad Pathak  
+    - - [ ] Source code 
+    - - [ ] Read me
