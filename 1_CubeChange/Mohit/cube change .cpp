@@ -19,8 +19,8 @@ int main()
 	    }
 	    else
 	    {
-	    	K=pow(N,3)-pow(N-2,3);
-	    	cout<<K;
+	    	K=(N*N*N)-(N-2)*(N-2)*(N-2);
+	    	cout<<K<<endl;
 	    }
 	}
 	return 0;
