@@ -10,7 +10,7 @@
 
   3. Siddharth Shashikar  
     - - [x] Source code 
-    - - [ ] Read me
+    - - [x] Read me
 
   4. Mohit Raj  
     - - [x] Source code 
@@ -18,7 +18,7 @@
 
   5. Vinit Koshti  
     - - [x] Source code 
-    - - [ ] Read me
+    - - [x] Read me
 
   6. Jagrit Kaushik  
     - - [ ] Source code 
