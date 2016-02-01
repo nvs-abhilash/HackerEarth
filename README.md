@@ -21,5 +21,5 @@
     - - [x] Read me
 
   6. Jagrit Kaushik  
-    - - [ ] Source code 
-    - -[ ] Read me
+    - - [x] Source code 
+    - - [ ] Read me
