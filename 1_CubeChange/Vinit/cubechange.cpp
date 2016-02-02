@@ -6,8 +6,8 @@ int main()
 {
     int numCases;
     cin >> numCases;
-    unsigned long  cases[numCases];
-    unsigned long  volume[numCases];
+    unsigned long long cases[numCases];
+    unsigned long long volume[numCases];
     cout << endl;
 
     if(numCases <=100 && numCases>=1)
@@ -24,9 +24,5 @@ int main()
             cout << volume[i] <<endl;
         }
     }
-
-
-
-
     return 0;
 }
