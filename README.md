@@ -28,7 +28,7 @@
     - - [ ] Source code 
     - - [ ] Read me
     
-###[My Prime](https://www.hackerearth.com/problem/algorithm/my-prime/)
+###2. [My Prime](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
   1. NVS Abhilash  
     - - [ ] Source code 
