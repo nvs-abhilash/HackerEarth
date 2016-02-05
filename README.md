@@ -2,8 +2,9 @@
 
 ## PLEASE DO NOT GO FOR EDITORIALS BEFORE SOLVING YOURSELF. IT HAMPERS your LEARNING. 
 PLEASE
+###4. [Counting Triangles](https://www.hackerearth.com/problem/algorithm/counting-triangles/)
 
-###3. [Minimum Class(Not So Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
+###3. [Minimum Class(Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
 
 ###2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
