@@ -15,7 +15,7 @@ int main()
             if(N[i]==1)
                 cout<<1<<endl;
             else if(N[i]==2)
-                cout<<"1 1"<<endl;
+                cout<<2<<endl;
             else{
                 do{num++;}
                     while(num*num > N[i] || N[i] >= (num+1)*(num+1));
