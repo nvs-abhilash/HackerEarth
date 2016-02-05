@@ -1,5 +1,7 @@
 #HackerEarth
-###2. [My Prime](https://www.hackerearth.com/problem/algorithm/my-prime/)
+###3. [Minimum Class(Not So Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
+
+###2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
   1. NVS Abhilash  
     - - [ ] Source code 
