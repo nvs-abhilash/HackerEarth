@@ -9,7 +9,7 @@ int main()
         long S[N];
         for(int i=0; i<N; i++)
         {
-            cin>>S[i];
+            ci3n>>S[i];
         }
         for(int i=0; i<N; i++)
         {
