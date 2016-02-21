@@ -4,10 +4,10 @@
 
 ###1. [_Array and Strings (Deadline : 13 Feb 2016)_](https://www.hackerearth.com/notes/array-and-strings-code-monk/)
 ======================================================================================
-###4. [_Counting Triangles_(Can skip if you want to, now.)](https://www.hackerearth.com/problem/algorithm/counting-triangles/)
+######4. [_Counting Triangles_(Can skip if you want to, now.)](https://www.hackerearth.com/problem/algorithm/counting-triangles/)
 
-###3. [Minimum Class(Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
+######3. [Minimum Class(Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
 
-###2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
+######2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
-###1. [_Cube Change_ (easy one)](https://www.hackerearth.com/problem/algorithm/cube-change-qualifier2/) 
+######1. [_Cube Change_ (easy one)](https://www.hackerearth.com/problem/algorithm/cube-change-qualifier2/) 
