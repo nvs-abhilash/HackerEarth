@@ -1,68 +1,15 @@
 #HackerEarth
 
-## PLEASE DO NOT GO FOR EDITORIALS BEFORE SOLVING YOURSELF. IT HAMPERS your LEARNING. 
-PLEASE
-###4. [Counting Triangles](https://www.hackerearth.com/problem/algorithm/counting-triangles/)
+## PHASE 2 [_Code Monk - Learn and Code!_](https://www.hackerearth.com/codemonk/)
 
-###3. [Minimum Class(Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
+###2. [_Sorting (Deadline : 06 March 2016)_](https://www.hackerearth.com/notes/sorting-code-monk/)
 
-###2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
+###1. [_Array and Strings (Deadline : 25 Feb 2016)_](https://www.hackerearth.com/notes/array-and-strings-code-monk/)
+======================================================================================
+######4. [_Counting Triangles_(Can skip if you want to, now.)](https://www.hackerearth.com/problem/algorithm/counting-triangles/)
 
-  1. NVS Abhilash  
-    - - [ ] Source code 
-    - - [ ] Read me
+######3. [Minimum Class(Easy)](https://www.hackerearth.com/problem/algorithm/minimum-class/)
 
-  2. Prateek Agarwal  
-    - - [ ] Source code 
-    - - [ ] Read me
+######2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
-  3. Siddharth Shashikar  
-    - - [ ] Source code 
-    - - [ ] Read me
-
-  4. Mohit Raj  
-    - - [ ] Source code 
-    - - [ ] Read me
-
-  5. Vinit Koshti  
-    - - [ ] Source code 
-    - - [ ] Read me
-
-  6. Jagrit Kaushik  
-    - - [ ] Source code 
-    - - [ ] Read me
-
-  7. Priyamwad Pathak  
-    - - [ ] Source code 
-    - - [ ] Read me
-
-
-###1. [_Cube Change_ (easy one)](https://www.hackerearth.com/problem/algorithm/cube-change-qualifier2/) 
-  1. NVS Abhilash  
-    - - [x] Source code 
-    - - [x] Read me
-
-  2. Prateek Agarwal  
-    - - [x] Source code 
-    - - [ ] Read me
-
-  3. Siddharth Shashikar  
-    - - [x] Source code 
-    - - [x] Read me
-
-  4. Mohit Raj  
-    - - [x] Source code 
-    - - [x] Read me
-
-  5. Vinit Koshti  
-    - - [x] Source code 
-    - - [x] Read me
-
-  6. Jagrit Kaushik  
-    - - [x] Source code 
-    - - [x] Read me
-
-  7. Priyamwad Pathak  
-    - - [ ] Source code 
-    - - [ ] Read me
-    
+######1. [_Cube Change_ (easy one)](https://www.hackerearth.com/problem/algorithm/cube-change-qualifier2/) 
