@@ -1,9 +1,9 @@
 #HackerEarth
 
 ## PHASE 2 [_Code Monk - Learn and Code!_](https://www.hackerearth.com/codemonk/)
-###3. [_Searching(Deadline : 27 March 2016)_](https://www.hackerearth.com/notes/searching-code-monk/)
+###3. [_Searching(Deadline : 18 April 2016)_](https://www.hackerearth.com/notes/searching-code-monk/)
 
-### Bonus question - Merge K sorted arrays of length N where K << N (clue - Buildheap).
+### Bonus question - Merge K sorted arrays of length N where K << N (clue - Buildheap), (DEADLINE : 27 March 2016).
 
 ###2. [_Sorting (Deadline : 27 March 2016)_](https://www.hackerearth.com/notes/sorting-code-monk/)
 
