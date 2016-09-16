@@ -16,3 +16,5 @@
 ######2. [My Prime(Very Easy)](https://www.hackerearth.com/problem/algorithm/my-prime/)
 
 ######1. [_Cube Change_ (easy one)](https://www.hackerearth.com/problem/algorithm/cube-change-qualifier2/) 
+
+######1 Hello people GaanjaBat was here.
